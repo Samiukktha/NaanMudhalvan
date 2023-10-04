@@ -10,7 +10,7 @@ The project aims to analyze and visualize air quality data from monitoring stati
 
 Predict RSPM/PM10 Levels: Develop a predictive model using SO2 and NO2 levels to estimate RSPM/PM10 levels, aiding in early pollution detection and management.
 
-Tools and Technologies:
+## Tools and Technologies:
 
  Python
 
@@ -18,11 +18,11 @@ Tools and Technologies:
 
  Machine Learning Libraries
 
-Design Thinking:
+## Design Thinking:
 
 Design thinking is an essential process in problem-solving, emphasizing a user-centric approach. In this phase, we'll outline our approach to understanding and solving the problem.
 
-1.Understanding the Problem:
+### 1.Understanding the Problem:
 
 Define Objectives: We have identified three main objectives for our project, which are to analyze air quality trends, identify pollution hotspots, and build a predictive model for RSPM/PM10 levels.
 
@@ -38,7 +38,7 @@ Design thinking is an essential process in problem-solving, emphasizing a user-c
 
 Evaluate the model’s performance using metrics like Mean Absolute Error or R-squared.
 
-2.Ideation and Design:
+### 2.Ideation and Design:
 
 Analysis Approach:
 
@@ -62,23 +62,23 @@ Create a basic dashboard or a set of simple visualizations using Excel, Google S
 
  Regression Plots: Visualize the relationship between SO2, NO2, and SPM/PM10 levels using regression plots.
 
-3. Prototyping:
+### 3.Prototyping:
 
 Develop code snippets and prototypes for data preprocessing, EDA, and visualization.
 
 Experiment with different machine learning algorithms for the predictive model and evaluate their performance.
 
-4. Testing and Feedback:
+### 4.Testing and Feedback:
 
 Gather feedback to refine the project design and approach.
 
-5.  Implementation Plan:
+### 5.Implementation Plan:
 
 Develop a detailed project plan outlining tasks, milestones, and timelines.
 
 Allocate resources and responsibilities among team members.
 
-Time-line:
+## Time-line:
 
 Week 1: Project Initiation and Data Collection
 Define project objectives and gather initial resources.
@@ -103,6 +103,6 @@ Week 5: Reporting, Feedback, and Presentation
 Summarize project findings in a report.
 Share findings and the initial presentation to gather feedback.
 
-Conclusion
+## Conclusion
 
 In this phase, we have defined the project objectives, outlined our analysis approach, and identified visualization techniques. The next steps involve data acquisition, data preprocessing, and EDA. Design thinking will guide us through the project, ensuring a user-centric and data-driven approach to solving the problem of air quality analysis and visualization in Tamil Nadu.
