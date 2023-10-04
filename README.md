@@ -2,7 +2,7 @@
 
 ## Project on Air Quality Analysis in Tamil Nadu
 
-Phase 1 folder contains - Phase1.pdf, Phase1.md </br>
+Phase 1 folder contains - DAC_Phase1.pdf, DAC_Phase1.md </br>
 
-Phase1.md conatins the same contents as Phase1.pdf  
-If you are not able to view Phase.pdf then use Phase.md
+DAC_Phase1.md conatins the same contents as DAC_Phase1.pdf  
+If you are not able to view DAC_Phase1.pdf then use DAC_Phase.md
